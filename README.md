@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I’m Matt
 
-<!--
-**mattsbertuzzi/mattsbertuzzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a developer with a background in international marketing, marketing automation, and a growing focus on data science and machine learning.
 
-Here are some ideas to get you started:
+I have completed full stack web development and machine learning bootcamps. I enjoy building data-driven tools and applications that solve real-world problems, especially in the food industry.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main interest is applying web development, analytics, and machine learning to the food retail sector to support smarter marketing decisions through data.
+
+## Key Skills
+
+- Full stack development with React, Node.js, and SQL  
+- Python for data science including Pandas, NumPy, Scikit-learn, NLP, and neural networks  
+- Data visualization and API integration  
+- Marketing automation and digital strategy  
+
+In the past, I created and scaled a food brand that reached over three million followers. That experience sparked my interest in using technology to drive growth and strategy in the food industry.
+
+I am based in Spain and speak Italian, English, Spanish, and German. In my free time, I enjoy fitness and cooking healthy high-protein recipes.
